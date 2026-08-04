@@ -20,7 +20,7 @@ export const ROUTES: Route[] = [
 ];
 
 export const TOUR_PACKAGES: TourPackage[] = [
-  { id: 'netarhat', name: 'Netarhat', image: '/images/regenerated_image_1785784615149.JPG' },
+  { id: 'netarhat', name: 'Netarhat', image: 'images/regenerated_image_1785784615149.JPG' },
   { id: 'betla', name: 'Betla National Park', image: './images/regenerated_image_1785784617206.png' },
   { id: 'dassam', name: 'Dassam Falls', image: './images/regenerated_image_1785784878175.png' },
   { id: 'hundru', name: 'Hundru Falls', image: './images/regenerated_image_1785784885381.png' },
